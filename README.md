@@ -13,6 +13,3 @@
 |-------------------|----------|
 | Hồ Anh Quốc       | 23521300 |
 
----
-
-Nơi upload bài tập thực hành và đồ án cuối kì của môn học
