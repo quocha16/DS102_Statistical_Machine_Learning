@@ -1,6 +1,3 @@
-# DS102_Statistical_Machine_Learning
-Nơi upload bài tập thực hành và đồ án cuối kì cho môn DS102 Học máy Thống kê
-
 <p align="center">
   <a href="https://www.uit.edu.vn" target="_blank" rel="noopener noreferrer">
     <img width="454" height="126" alt="banner_uit" src="https://github.com/user-attachments/assets/dccf9443-d7d9-4f64-8c47-0a01691fc1c8" />
@@ -16,3 +13,6 @@ Nơi upload bài tập thực hành và đồ án cuối kì cho môn DS102 Họ
 |-------------------|----------|
 | Hồ Anh Quốc       | 23521300 |
 
+---
+
+Nơi upload bài tập thực hành và đồ án cuối kì của môn học
