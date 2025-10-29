@@ -10,7 +10,9 @@ Nơi upload bài tập thực hành và đồ án cuối kì cho môn DS102 Họ
 
 <h1 align="center">DS102 - Học máy Thống kê</h1>
 
---
+---
 
+| Họ và Tên         | MSSV     |
+|-------------------|----------|
 | Hồ Anh Quốc       | 23521300 |
 
